@@ -1,3 +1,4 @@
 rootProject.name = 'kotlin'
 include 'kotlin-01'
+include 'kotlin-02'
 
